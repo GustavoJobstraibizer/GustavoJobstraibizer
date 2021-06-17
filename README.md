@@ -1,4 +1,4 @@
-### Hi there, i'm Gustavo henrique jobstraibizer 👋
+### Hi there, I'm Gustavo henrique jobstraibizer 👋
 
 <a href="https://www.linkedin.com/in/ghjobstraibizer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://gitlab.com/gustavo_dev"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
